@@ -102,14 +102,11 @@ Our model aims to help manufacturers, researchers, and decision-makers make data
 # Clone the repository
 git clone [https://github.com/yourusername/compressive-strength-co2-prediction.git](https://github.com/shiga2006/Compressive-strength-prediction-using-ML)
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run training
-python src/model_training.py
+comparison-4 models.ipynb
 
 # Run optimization
-python src/optimize_model.py
+CatBoost optimization.ipynb
 
 
 📌 Future Improvements
