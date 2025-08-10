@@ -118,7 +118,9 @@ CatBoost optimization.ipynb
 🔹 Expand dataset for global applicability
 
 
+
 🤝 Contributing
+
 Pull requests are welcome! If you have ideas to make this better, please fork the repo and submit a PR.
 
 
